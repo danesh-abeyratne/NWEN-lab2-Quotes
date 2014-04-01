@@ -1,0 +1,30 @@
+{
+  "name": "quote",
+  "version": "0.0.0",
+  "description": "Quotes server",
+  "main": "quote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h-monkey/NWEN-lab2-Quotes.git"
+  },
+  "keywords": [
+    "quotes",
+    "heroku"
+  ],
+  "author": "danesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h-monkey/NWEN-lab2-Quotes/issues"
+  },
+  "homepage": "https://github.com/h-monkey/NWEN-lab2-Quotes",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  },
+  "engines": {
+    "node": "0.10.26"
+  }
+}
